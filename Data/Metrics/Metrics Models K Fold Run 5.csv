@@ -1,0 +1,13 @@
+﻿"wflow_id",".config",".metric","mean","std_err","n","preprocessor","model","rank"
+"Best Spec_Xgboost","Preprocessor1_Model1","accuracy",0.7564988860270293,0.0018092454351778232,10,"recipe","boost_tree",1
+"Best Spec_Xgboost","Preprocessor1_Model1","roc_auc",0.8337346004040951,0.0014621783893887593,10,"recipe","boost_tree",1
+"Best Spec_Xgboost","Preprocessor1_Model1","sensitivity",0.6631439693865971,0.003495311455772438,10,"recipe","boost_tree",1
+"Best Spec_Xgboost","Preprocessor1_Model1","specificity",0.825578533463983,0.003139999073944181,10,"recipe","boost_tree",1
+"Best Spec_Random Forest","Preprocessor1_Model1","accuracy",0.7504132824192113,0.0018499625782958363,10,"recipe","rand_forest",2
+"Best Spec_Random Forest","Preprocessor1_Model1","roc_auc",0.8236263564912815,0.0013218606463831766,10,"recipe","rand_forest",2
+"Best Spec_Random Forest","Preprocessor1_Model1","sensitivity",0.6615256654545285,0.0031984312405473965,10,"recipe","rand_forest",2
+"Best Spec_Random Forest","Preprocessor1_Model1","specificity",0.8161867823768989,0.002170782035215736,10,"recipe","rand_forest",2
+"Best Spec_Elastic Logit","Preprocessor1_Model1","accuracy",0.6926759582511022,0.0014566246610531676,10,"recipe","logistic_reg",3
+"Best Spec_Elastic Logit","Preprocessor1_Model1","roc_auc",0.7811499552226318,0.0011498350887927352,10,"recipe","logistic_reg",3
+"Best Spec_Elastic Logit","Preprocessor1_Model1","sensitivity",0.7895941728443316,0.0019973483413106737,10,"recipe","logistic_reg",3
+"Best Spec_Elastic Logit","Preprocessor1_Model1","specificity",0.6209599568804959,0.002838357313771232,10,"recipe","logistic_reg",3

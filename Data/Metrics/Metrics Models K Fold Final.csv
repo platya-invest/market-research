@@ -1,0 +1,5 @@
+﻿"wflow_id",".config",".metric","mean","std_err","n","preprocessor","model","rank"
+"Final_Xgboost","Preprocessor1_Model1","accuracy",0.7814833316731424,9.930165191969458e-4,10,"recipe","boost_tree",1
+"Final_Xgboost","Preprocessor1_Model1","roc_auc",0.8637380359641643,0.0010443590748420617,10,"recipe","boost_tree",1
+"Final_Xgboost","Preprocessor1_Model1","sensitivity",0.7079425292972158,0.002511400276292329,10,"recipe","boost_tree",1
+"Final_Xgboost","Preprocessor1_Model1","specificity",0.8359012133519256,0.0021815599878044294,10,"recipe","boost_tree",1

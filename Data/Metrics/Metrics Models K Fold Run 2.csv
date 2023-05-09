@@ -1,0 +1,17 @@
+﻿"wflow_id",".config",".metric","mean","std_err","n","preprocessor","model","rank"
+"ELCA 1 Modified_Random Forest","Preprocessor1_Model1","accuracy",0.75642241942967,0.0019079887434809311,10,"recipe","rand_forest",1
+"ELCA 1 Modified_Random Forest","Preprocessor1_Model1","roc_auc",0.8253870145849722,0.0020331016238922706,10,"recipe","rand_forest",1
+"ELCA 1 Modified_Random Forest","Preprocessor1_Model1","sensitivity",0.6557370272913328,0.003939509498554863,10,"recipe","rand_forest",1
+"ELCA 1 Modified_Random Forest","Preprocessor1_Model1","specificity",0.8309259055541846,0.0023513259104253146,10,"recipe","rand_forest",1
+"ELCA 1_Random Forest","Preprocessor1_Model1","accuracy",0.74273712806067,0.0012119026038689645,10,"recipe","rand_forest",2
+"ELCA 1_Random Forest","Preprocessor1_Model1","roc_auc",0.8160907010292835,0.0016976575504542878,10,"recipe","rand_forest",2
+"ELCA 1_Random Forest","Preprocessor1_Model1","sensitivity",0.6399889901976827,0.0034637592604209832,10,"recipe","rand_forest",2
+"ELCA 1_Random Forest","Preprocessor1_Model1","specificity",0.8187670435375889,0.0017862954213280565,10,"recipe","rand_forest",2
+"ELCA 1_Elastic Logit","Preprocessor1_Model1","accuracy",0.6961925557590807,0.002016963808515374,10,"recipe","logistic_reg",3
+"ELCA 1_Elastic Logit","Preprocessor1_Model1","roc_auc",0.7778337555486342,0.0016054933898870707,10,"recipe","logistic_reg",3
+"ELCA 1_Elastic Logit","Preprocessor1_Model1","sensitivity",0.4678020024449568,0.005557349540728074,10,"recipe","logistic_reg",3
+"ELCA 1_Elastic Logit","Preprocessor1_Model1","specificity",0.8651928435441298,0.0014497368901520307,10,"recipe","logistic_reg",3
+"ELCA 1 Modified_Elastic Logit","Preprocessor1_Model1","accuracy",0.7022172871979624,0.0011983130954012458,10,"recipe","logistic_reg",4
+"ELCA 1 Modified_Elastic Logit","Preprocessor1_Model1","roc_auc",0.7709254129524074,0.0015702979106821024,10,"recipe","logistic_reg",4
+"ELCA 1 Modified_Elastic Logit","Preprocessor1_Model1","sensitivity",0.5629379524352757,0.0025682017569098837,10,"recipe","logistic_reg",4
+"ELCA 1 Modified_Elastic Logit","Preprocessor1_Model1","specificity",0.8052784440281058,0.0017529806364219977,10,"recipe","logistic_reg",4

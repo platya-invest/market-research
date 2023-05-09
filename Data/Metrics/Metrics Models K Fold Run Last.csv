@@ -1,0 +1,25 @@
+﻿"wflow_id",".config",".metric","mean","std_err","n","preprocessor","model","rank"
+"Last Spec_Xgboost","Preprocessor1_Model1","accuracy",0.7722019228587723,8.661510489629889e-4,10,"recipe","boost_tree",1
+"Last Spec_Xgboost","Preprocessor1_Model1","roc_auc",0.8521176555564471,8.575544256842521e-4,10,"recipe","boost_tree",1
+"Last Spec_Xgboost","Preprocessor1_Model1","sensitivity",0.6883835340508964,0.0020829074043786284,10,"recipe","boost_tree",1
+"Last Spec_Xgboost","Preprocessor1_Model1","specificity",0.8342249950128562,0.0021860910556428556,10,"recipe","boost_tree",1
+"Last Spec_Random Forest","Preprocessor1_Model1","accuracy",0.7653059777901338,0.0011602160568841464,10,"recipe","rand_forest",2
+"Last Spec_Random Forest","Preprocessor1_Model1","roc_auc",0.8376681183328585,0.0011391787559545577,10,"recipe","rand_forest",2
+"Last Spec_Random Forest","Preprocessor1_Model1","sensitivity",0.6757269015820871,0.0028486352254579028,10,"recipe","rand_forest",2
+"Last Spec_Random Forest","Preprocessor1_Model1","specificity",0.8315912167370955,0.001668674985999215,10,"recipe","rand_forest",2
+"Refence_Xgboost","Preprocessor1_Model1","accuracy",0.747752568264029,0.00157839291819448,10,"recipe","boost_tree",3
+"Refence_Xgboost","Preprocessor1_Model1","roc_auc",0.8245230809404248,0.0014519201265567883,10,"recipe","boost_tree",3
+"Refence_Xgboost","Preprocessor1_Model1","sensitivity",0.6575349029345945,0.003675653235105623,10,"recipe","boost_tree",3
+"Refence_Xgboost","Preprocessor1_Model1","specificity",0.8145106206696974,0.0020235788729651405,10,"recipe","boost_tree",3
+"Refence_Random Forest","Preprocessor1_Model1","accuracy",0.7443886608352294,0.0019313597970867559,10,"recipe","rand_forest",4
+"Refence_Random Forest","Preprocessor1_Model1","roc_auc",0.8168360040437491,0.0013619246943535385,10,"recipe","rand_forest",4
+"Refence_Random Forest","Preprocessor1_Model1","sensitivity",0.6568159439722818,0.0032621680052595183,10,"recipe","rand_forest",4
+"Refence_Random Forest","Preprocessor1_Model1","specificity",0.8091895894770061,0.002650320406838442,10,"recipe","rand_forest",4
+"Last Spec_Elastic Logit","Preprocessor1_Model1","accuracy",0.6998470742371902,0.0013036731526437323,10,"recipe","logistic_reg",5
+"Last Spec_Elastic Logit","Preprocessor1_Model1","roc_auc",0.7840996203049967,0.001405317361926814,10,"recipe","logistic_reg",5
+"Last Spec_Elastic Logit","Preprocessor1_Model1","sensitivity",0.7665114850669701,0.0021268150886160696,10,"recipe","logistic_reg",5
+"Last Spec_Elastic Logit","Preprocessor1_Model1","specificity",0.6505177285354249,0.0014283635086818302,10,"recipe","logistic_reg",5
+"Refence_Elastic Logit","Preprocessor1_Model1","accuracy",0.6919265988570167,0.0014129387839101558,10,"recipe","logistic_reg",6
+"Refence_Elastic Logit","Preprocessor1_Model1","roc_auc",0.7826843556097348,0.0014366926602927105,10,"recipe","logistic_reg",6
+"Refence_Elastic Logit","Preprocessor1_Model1","sensitivity",0.7914278775226058,0.0024477759009805537,10,"recipe","logistic_reg",6
+"Refence_Elastic Logit","Preprocessor1_Model1","specificity",0.6182992218356625,0.002495039167026332,10,"recipe","logistic_reg",6
